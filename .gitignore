@@ -1,0 +1,13 @@
+# Ignore .NET build files
+**/bin/
+**/obj/
+**/*.user
+**/*.suo
+
+# Ignore Node modules
+client/node_modules/
+client/build/
+
+# System files
+.DS_Store
+Thumbs.db
